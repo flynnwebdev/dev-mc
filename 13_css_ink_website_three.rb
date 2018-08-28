@@ -1,0 +1,1 @@
+# The Company directors are interested in tech and met a guy who was really passionate about Flexbox, they now want you to implement Flexbox in the ink website. They want a header across the top, nav down the left hand side, the main content in the middle and an aside down the right hand side with some featured product images.
