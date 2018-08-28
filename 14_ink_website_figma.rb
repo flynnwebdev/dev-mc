@@ -1,0 +1,1 @@
+# The Company have decided they don’t like the look and feel of the homepage. Instead of coding another page, you suggest coming up with two different design wireframes in Figma.
